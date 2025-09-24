@@ -1,1 +1,1 @@
-private preject
+private project
